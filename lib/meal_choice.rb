@@ -7,3 +7,4 @@ def meal_choice (protein = "tofu")
   puts "A plate of #{protein}."
 end 
 
+meal_choice
