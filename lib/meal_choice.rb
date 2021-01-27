@@ -9,4 +9,4 @@ puts meal
 meal
 end 
 
-meal_choice("carrots", "sting beanas", "chicken")
+meal_choice("carrots", "sting beans", "chicken")
